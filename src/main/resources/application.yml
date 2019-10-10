@@ -1,0 +1,8 @@
+
+spring:
+  data:
+    elasticsearch:
+      host: 10.253.78.35
+      port: 9201
+server:
+  port: 9000
